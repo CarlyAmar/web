@@ -1,0 +1,45 @@
+var class_s_p_i =
+[
+    [ "tFrameMode", "class_s_p_i.html#af1cea550215b0e6c261465c7860d954e", [
+      [ "kChipSelect", "class_s_p_i.html#af1cea550215b0e6c261465c7860d954ea00966352d58db0b7dc4638828ffdbf2a", null ],
+      [ "kPreLatchPulse", "class_s_p_i.html#af1cea550215b0e6c261465c7860d954ea32d72891ae37fa63d0cda961aaf9e6c3", null ],
+      [ "kPostLatchPulse", "class_s_p_i.html#af1cea550215b0e6c261465c7860d954ea976a899649814f50cbe4f6d06a2c4084", null ],
+      [ "kPreAndPostLatchPulse", "class_s_p_i.html#af1cea550215b0e6c261465c7860d954eaa1d45507eb42a28189e349f2ad490089", null ]
+    ] ],
+    [ "tSPIConstants", "class_s_p_i.html#a02aeb16b20e053684835ee32be95ea04", [
+      [ "kReceiveFIFODepth", "class_s_p_i.html#a02aeb16b20e053684835ee32be95ea04a87169c4088d1deb767f5307808eddbbf", null ],
+      [ "kTransmitFIFODepth", "class_s_p_i.html#a02aeb16b20e053684835ee32be95ea04aedd1997fdc34beadfe77f098b2c30b5c", null ]
+    ] ],
+    [ "SPI", "class_s_p_i.html#ab8a031abcb911915f2221324211f37b4", null ],
+    [ "SPI", "class_s_p_i.html#a5a9ff16c1b36056d2bab48c8bb9dd58f", null ],
+    [ "SPI", "class_s_p_i.html#aa99a1d66d364cb0ec749026660fb8bd2", null ],
+    [ "SPI", "class_s_p_i.html#a8de2c7b9a8484df3e4588afa5ed47178", null ],
+    [ "SPI", "class_s_p_i.html#a1ff8fa9eb4cf60ec5238c5797651afec", null ],
+    [ "SPI", "class_s_p_i.html#a74dd16adaa9ca26845ebc2f8c61379fa", null ],
+    [ "~SPI", "class_s_p_i.html#a6babebf1ea3e8ff0330f43a3e2312ac4", null ],
+    [ "ApplyConfig", "class_s_p_i.html#a660a95177a0e69be2ae3b0f5ace85d2c", null ],
+    [ "ClearReceivedData", "class_s_p_i.html#ae70ffd5d8cd8f973b9fc2103d2ee3474", null ],
+    [ "GetBitsPerWord", "class_s_p_i.html#a80331e1e82f996cc4b8877260210d756", null ],
+    [ "GetNumReceived", "class_s_p_i.html#aa51a5964c7fc2d0f8053a37d87aea8d0", null ],
+    [ "GetOutputFIFOAvailable", "class_s_p_i.html#ae7a08e7a28ebd430ffcd6dabc5694c42", null ],
+    [ "GetSlaveSelect", "class_s_p_i.html#a614dfabba0dcbb66d6c1a88ba40bd26c", null ],
+    [ "HadReceiveOverflow", "class_s_p_i.html#aec0f909f191fec08bb1a069bdb35fd8e", null ],
+    [ "IsDone", "class_s_p_i.html#a88ae50d03a0aeecac3045a4d5ca7fb81", null ],
+    [ "Read", "class_s_p_i.html#aaaa34162f606feb8f36eb4e774697ef7", null ],
+    [ "Reset", "class_s_p_i.html#a19bcc2d6206a4c54a62cd0a358ef1d1a", null ],
+    [ "SetBitsPerWord", "class_s_p_i.html#afbcec3b66839044ba54dc4c154814c00", null ],
+    [ "SetClockActiveHigh", "class_s_p_i.html#a5581a5f70c8e49dd712d44f40ee81e6f", null ],
+    [ "SetClockActiveLow", "class_s_p_i.html#aa1b8cb48216e0a502bb34486636da047", null ],
+    [ "SetClockRate", "class_s_p_i.html#a27b450354fc78eb4441e7d59f8fe65f2", null ],
+    [ "SetLSBFirst", "class_s_p_i.html#acd12e6ca307ec0dc0fb80f4cc9aa6ee3", null ],
+    [ "SetMSBFirst", "class_s_p_i.html#a66ed807d9a76400a74e815837b3ff32b", null ],
+    [ "SetSampleDataOnFalling", "class_s_p_i.html#a463dc7cb26d0b865c44c73538bc23ae0", null ],
+    [ "SetSampleDataOnRising", "class_s_p_i.html#a00eec7d4310c18e8cfb4b36592b488d9", null ],
+    [ "SetSlaveSelect", "class_s_p_i.html#af0a6cd80fbc758c2a8e344f044e1a59d", null ],
+    [ "SetSlaveSelect", "class_s_p_i.html#ad2745d268c7350f65d4657b6d558a67a", null ],
+    [ "Write", "class_s_p_i.html#a4cf3b8bd4c938d1e473a5625b0c88471", null ],
+    [ "m_channels", "class_s_p_i.html#a400f5597cc5fa5d5ec4e53b16e7e563a", null ],
+    [ "m_config", "class_s_p_i.html#a246566dd89a56e47235573fa1cbf4650", null ],
+    [ "m_spi", "class_s_p_i.html#a2e51fd2a5f60a207e1948fcce6ce4b6a", null ],
+    [ "m_ss", "class_s_p_i.html#abb5b7fdb1d7bd262f01f1955611dad04", null ]
+];
